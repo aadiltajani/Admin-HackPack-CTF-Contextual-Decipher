@@ -1,4 +1,4 @@
-# Admin-HackPack-CTF-Contextual-Decipher
+# Admin-HackPack-CTF-Contextual-Decipher (Just HackPack team. Never to be shared with participants!)
 Admin Repo to be used for HackPack challenge deployment
 
 # Challenge Explained (Admin Only):
