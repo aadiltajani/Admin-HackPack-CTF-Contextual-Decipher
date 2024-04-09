@@ -25,4 +25,4 @@ _________________________________________________________________
 
 
 ## Title: Decrypt the Enigma
-You've intercepted a transmission from CryptoCraft, a secretive organization renowned for their innovative encryption methods. This transmission revolves around their latest breakthrough in contextual encryption, a technique designed to render traditional methods useless. Your task is to decipher the encrypted message hidden within the transmission and uncover the flag. Good luck!
+You've intercepted a transmission from CryptoCraft, a secretive organization renowned for their _innovative encryption methods_. This transmission revolves around their latest breakthrough in _contextual encryption_, a technique designed to render traditional methods useless using _open-ended texts of events timeline_. Your task is to decipher the encrypted message hidden within the transmission and uncover the flag in the protected file. Good luck!
